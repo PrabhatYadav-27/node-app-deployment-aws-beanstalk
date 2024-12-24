@@ -1,0 +1,9 @@
+node_modules/
+*.log
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+s3-policy.json/
+my-node--app.zip/
