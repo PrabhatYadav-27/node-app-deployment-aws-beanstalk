@@ -174,17 +174,6 @@ This guide outlines the steps to deploy a simple Node.js web application on AWS 
 3. **Set Up Auto Scaling**:
    - Elastic Beanstalk Console > **Configuration > Auto Scaling**.
    - Configure instance scaling based on CPU utilization.
-
----
-
-### **Deliverables**
-
-1. **Deployment URL**:
-   - The public HTTPS URL of your live application.
-
-2. **Documentation**:
-   - Include this README for setup and maintenance reference.
-
 ---
 
 ### **Notes**
